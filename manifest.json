@@ -2,8 +2,8 @@
   "name": "dipicochat",
   "vendor": "dipicomx",
   "version": "0.0.1",
-  "title": "CHANGEME",
-  "description": "CHANGEME",
+  "title": "Chat Dipico",
+  "description": "App para atencion por medio de whatsapp e inclusión de metaetiqueta para facebook",
   "builders": {
     "react": "3.x",
     "store": "0.x",
