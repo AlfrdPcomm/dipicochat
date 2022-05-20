@@ -1,7 +1,7 @@
 {
   "name": "dipicochat",
   "vendor": "dipicomx",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "title": "Chat Dipico",
   "description": "App para atencion por medio de whatsapp e inclusión de metaetiqueta para facebook",
   "builders": {
